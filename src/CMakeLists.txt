@@ -16,6 +16,7 @@ set(sources
 
 set(headers
     ar_omp.h
+    aruco.h
     cameraparameters.h
     checkrectcontour.h
     cvdrawingutils.h
