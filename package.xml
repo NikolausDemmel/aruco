@@ -15,4 +15,7 @@
   <url>http://www.uco.es/investiga/grupos/ava/node/26</url>
   <buildtool_depend>cmake</buildtool_depend>
   <depend>libopencv-dev</depend>
+  <export>
+    <build_type>cmake</build_type>
+  </export>
 </package>
